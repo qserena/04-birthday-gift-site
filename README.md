@@ -10,3 +10,8 @@ Basic exercise in HTML and CSS.
 - HTML
 - CSS
 
+## Live link
+The application is deployed here:
+[https://annikas-birthday.netlify.app](https://annikas-birthday.netlify.app)
+
+Please feel free to click around and explore!
